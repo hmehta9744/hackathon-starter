@@ -55,3 +55,13 @@ Thumbs.db
 .Trashes
 .VolumeIcon.icns
 .com.apple.timemachine.donotpresent
+
+# Vagrant and JetBrains
+.idea
+.vagrant
+Vagrantfile
+puphpet
+adminer.php
+composer.lock
+composer.phar
+config.ini.dev
